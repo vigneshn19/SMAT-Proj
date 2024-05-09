@@ -1,0 +1,1 @@
+setting up the whole framework environment and also download a large portion of the libraries that requires for the project
